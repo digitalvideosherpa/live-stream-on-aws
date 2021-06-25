@@ -154,8 +154,8 @@ Metadata:
 Mappings:
   SourceCode:
     General:
-      S3Bucket: CODE_BUCKET
-      KeyPrefix: SOLUTION_NAME/CODE_VERSION
+      S3Bucket: dmclivestreaming-ap-southeast-2
+      KeyPrefix: live streaming-on-aws/v2.3.0
   AnonymousData:
     SendAnonymousData:
       Data: Yes
